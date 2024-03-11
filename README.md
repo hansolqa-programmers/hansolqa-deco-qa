@@ -16,9 +16,9 @@ tokenizer_name = "heavytail/kullm-solar-S"
 ```
 ### CASE 2: Mistral-7B
 ```python
-base_model_name = ''
-lora_adaptor_name = ''
-tokenizer_name = ''
+base_model_name = 'davidkim205/komt-mistral-7b-v1'
+lora_adaptor_name = 'jjookim/beta_1'
+tokenizer_name = 'davidkim205/komt-mistral-7b-v1'
 ```
 ### Common
 ```python
