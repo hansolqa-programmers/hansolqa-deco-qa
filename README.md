@@ -6,6 +6,11 @@ https://dacon.io/competitions/official/236216/overview/description
 
 이 대회는 참가자들에게 도배하자와 관련된 다양한 질문과 상황을 제공하고, 이에 대한 정확하고 신속한 응답을 제공하는 AI 모델을 개발하는 것을 목표로 합니다. 이는 실제 현장에서 발생할 수 있는 복잡한 상황에 대응하고, 고객의 문의에 신속하고 정확하게 답변할 수 있는 시스템을 구축하는 데 중요한 역할을 할 것입니다.
 
+## Dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ## Quick Inference
 - `CASE` 로 모델을 선택해 `COMMON` 으로 Quick Generation
 ### CASE 1 : SOLAR
